@@ -40,15 +40,15 @@ hybrid-rag-multi-query/
 
 │
 
-├── build_index.py # Offline indexing script
+├── build_index.py   # Offline indexing script
 
-├── query_rag.py # Query and answer script
+├── query_rag.py     # Query and answer script
 
-├── datasetFED/ # PDF dataset
+├── datasetFED/      # PDF dataset
 
-├── FEDcoma_db/ # Chroma vector database (generated)
+├── FEDcoma_db/      # Chroma vector database (generated)
 
-├── bm25.pkl # BM25 index (generated)
+├── bm25.pkl         # BM25 index (generated)
 
 ├── requirements.txt
 
