@@ -1,0 +1,7 @@
+pip install langchain langchain-community langchain-core
+pip install langchain-huggingface
+pip install sentence-transformers
+pip install chromadb
+pip install rank-bm25
+pip install pypdf
+pip install requests
